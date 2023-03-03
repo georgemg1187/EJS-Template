@@ -13,7 +13,7 @@
     "@types/node": "^11.9.4",
     "ejs": "^2.6.1",
     "html-format": "^1.0.1",
-    "remove-blank-lines": "^1.1.1",
+    "remove-blank-lines": "^1.4.1",
     "typescript": "^3.3.3333"
   }
 }
